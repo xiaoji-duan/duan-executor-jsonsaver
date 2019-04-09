@@ -1,0 +1,6 @@
+{
+  "debug": true,
+  "mongo.host": "mongologger",
+  "mongo.port": 27017,
+  "mongo.keepalive": true,
+}
